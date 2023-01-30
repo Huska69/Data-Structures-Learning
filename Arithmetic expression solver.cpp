@@ -7,11 +7,11 @@
 //You are not allowed using recursive in this assignment.
 //Note: You can use pow()
 
-//Rounding rule:
+//Rounding rule
 //Banker's rounding
 //Reference:https://www.calculatorsoup.com/calculators/math/rounding-methods-calculator.php
 
-//Symbol example:
+//Symbol example
 //addition: "+"
 //subtraction: "-"
 //multiplication: "*"
