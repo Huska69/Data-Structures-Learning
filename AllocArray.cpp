@@ -5,7 +5,7 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-
+-
 template <class T> class Memory 
 {
 public:
@@ -18,7 +18,7 @@ public:
       arr1[i] = arr2 + i * n;
     
     return arr1;
-  }
+   }
 };
 
 int main()
