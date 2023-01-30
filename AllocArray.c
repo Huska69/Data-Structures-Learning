@@ -4,7 +4,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
 void allocArray(double ***p, int m, int n)
 {
   double **arr1 = (double**)malloc(sizeof(double*) * m);
